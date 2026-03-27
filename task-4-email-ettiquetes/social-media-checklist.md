@@ -1,6 +1,8 @@
 #social media do's and don'ts
 
 #Do's
+
+
 -Keep profile professional
 
 
@@ -29,4 +31,6 @@
 
 
 -Don't overshare your location
+
+
 -Don't argue aggressively  online
