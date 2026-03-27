@@ -54,7 +54,7 @@ Kaggle Profile: https://www.kaggle.com/latikashekhawat
 HackerRank Profile: https://www.hackerrank.com/profile/latikashekhawat1
 
 
-Digital Literacy Quiz (Google Form): 
+Digital Literacy Quiz (Google Form): https://docs.google.com/forms/d/e/1FAIpQLSds-tq-HQYO7EKsuLAejXx0Eew37NyqEUlh9ktSZ0zSY3biZg/viewform?usp=dialog
 
 
 # Conclusion
