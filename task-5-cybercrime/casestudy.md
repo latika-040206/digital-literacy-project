@@ -1,4 +1,6 @@
 cybercrime Type: UPI/Online payment Fraud
+
+
 UPI fraud is a common cybercrime where scammers trick people into sending money through digital payment apps like Google pay,Phone Pay or paytm.
 This type of fraud is increasing in india as more people use online payment system for transactions.
 This fraud can usually happen in many ways.
